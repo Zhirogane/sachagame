@@ -1,3 +1,7 @@
+<style>
+  body { background-color: #0d1117; color: #c9d1d9; }
+</style>
+
 # Sacha Game
 Bienvenido/a a la pagina web oficial de Sacha Game. Este es un juego hecho en Power Point solo disponible para computadora. El proyecto mas grande de Power Point hecho por Zhirogane hasta ahora el cual empezo en 2022, tambien podrás acceder a los otros juegos de Zhirogane aqui:
 
