@@ -7,6 +7,7 @@
     background-color: transparent !important;
     box-shadow: none !important;
   }
+  hr { border-color: #30363d; background-color: #30363d; }
 </style>
 
 # Sacha Game
