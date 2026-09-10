@@ -25,3 +25,4 @@ Debido a que anteriormente no existía una pagina de Sacha Game los releases ant
 [![v2.1.1](https://img.shields.io/badge/2.1.1-1/08/2024-yellow?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v2.1.1)
 [![v2.2](https://img.shields.io/badge/2.2-22/10/2025-yellow?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v2.2)
 [![v2.3](https://img.shields.io/badge/2.3-10/09/2024-blue?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v2.3)
+
