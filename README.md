@@ -1,5 +1,8 @@
 <style>
   body { background-color: #0d1117; color: #c9d1d9; }
+  header, .page-header, h1:first-of-type { 
+    display: none !important; 
+  }
 </style>
 
 # Sacha Game
