@@ -1,3 +1,4 @@
+<div style="background-color: #0d1117; color: #c9d1d9; padding: 25px; border-radius: 8px;">
 # Sacha Game
 Bienvenido/a a la pagina web oficial de Sacha Game. Este es un juego hecho en Power Point solo disponible para computadora. El proyecto mas grande de Power Point hecho por Zhirogane hasta ahora el cual empezo en 2022, tambien podrás acceder a los otros juegos de Zhirogane aqui:
 
@@ -25,3 +26,4 @@ Debido a que anteriormente no existía una pagina de Sacha Game los releases ant
 [![v2.1.1](https://img.shields.io/badge/2.1.1-1/08/2024-yellow?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v2.1.1)
 [![v2.2](https://img.shields.io/badge/2.2-22/10/2025-yellow?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v2.2)
 [![v2.3](https://img.shields.io/badge/2.3-10/09/2024-blue?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v2.3)
+</div>
