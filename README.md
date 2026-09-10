@@ -3,6 +3,10 @@
   header, .page-header, h1:first-of-type { 
     display: none !important; 
   }
+  p img, a img {
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
 </style>
 
 # Sacha Game
