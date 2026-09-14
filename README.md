@@ -1,5 +1,5 @@
 # Sacha Game
-Bienvenido/a al GitHub oficial de Sacha Game. Este es un juego hecho en Power Point solo disponible para computadora. El proyecto mas grande de Power Point hecho por Zhirogane hasta ahora el cual empezo en 2022, tambien podrás acceder a los otros juegos de Zhirogane aqui:
+Bienvenido/a al GitHub oficial de Sacha Game. Este es un juego hecho en Power Point solo disponible para computadora. El proyecto mas grande de Power Point hecho por Zhirogane hasta ahora el cual empezo en 2022.
 
 ## Descarga
 Puedes descargar la última versión de Sacha Game desde [aquí](https://github.com/Zhirogane/sachagame/releases/latest) aunque puedes buscar las versiones anteriores desde [aquí](https://github.com/Zhirogane/sachagame/releases)
