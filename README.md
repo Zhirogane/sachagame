@@ -7,8 +7,8 @@ Puedes descargar la última versión de Sacha Game desde [aquí](https://github.
 ## Información sobre cada versión
 Debido a que anteriormente no existía una pagina de Sacha Game los releases antes de la v2.3 tienen fechas muy cercanas entre si, pero aquí puedes ver la fecha real en que salió cada una de las versiones:
 
-[![demo](https://img.shields.io/badge/DEMO-18/04/2022-grey?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/DEMO)
-[![v1.0](https://img.shields.io/badge/1.0-16/06/2022-grey?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v1.0)
+[![v0.1](https://img.shields.io/badge/DEMO-18/04/2022-grey?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v0.1)
+[![v0.2](https://img.shields.io/badge/BETA-16/06/2022-grey?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v0.2)
 [![v1.1](https://img.shields.io/badge/1.1-17/07/2022-lightgrey?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v1.1)
 [![v1.2](https://img.shields.io/badge/1.2-19/07/2022-8B4513?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v1.2)
 [![v1.3](https://img.shields.io/badge/1.3-22/10/2022-8B4513?style=flat)](https://github.com/Zhirogane/sachagame/releases/tag/v1.3)
